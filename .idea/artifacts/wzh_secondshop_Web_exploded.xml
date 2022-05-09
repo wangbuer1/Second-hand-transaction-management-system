@@ -1,0 +1,45 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="wzh-secondshop:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/wzh_secondshop_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="wzh-secondshop/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="wzh-secondshop" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: javax.validation:validation-api:1.1.0.Final" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.2.1.Final" />
+          <element id="library" level="project" name="Maven: com.fasterxml:classmate:1.1.0" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.34" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.0" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.21" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.21" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.7" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.7" />
+          <element id="library" level="project" name="Maven: junit:junit:4.13.2" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.7" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.7" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.3.1" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
