@@ -6,7 +6,7 @@
 
 ## 1、项目介绍
 
-二手交易管理系统0拥有两个角色，分别为管理员和用户，具体功能如下：
+二手交易管理系统3拥有两个角色，分别为管理员和用户，具体功能如下：
 
 管理员：物品类型管理、物品管理、订单管理、用户管理
 
@@ -79,9 +79,8 @@
 
 ## 6、获取方式
 
-[点击获取源码](https://mp.weixin.qq.com/s/84zqo8kBoI7Qi4q4vtrT-g)
-
-![image-20220509000010316](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220509000012.png)
+关注公众号： 程序员王不二，回复 “二手3 ” ，即可免费获取完整版的项目代码。此公众号持续分享各种免费java项目源码。
+![img](https://img-blog.csdnimg.cn/7b5e4835dd0248459447658ca28d2ff0.png#pic_center)
 
 ## 7、其它项目
 
