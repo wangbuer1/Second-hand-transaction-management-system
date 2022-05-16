@@ -47,8 +47,6 @@
 
 ### 4.3 商品详情
 
-![商品详情](../OneDrive%20-%20stu.xjtu.edu.cn/%E9%A1%B9%E7%9B%AE/%E4%B8%8B%E4%B8%80%E6%AD%A5/%E4%BA%8C%E6%89%8B%E4%BA%A4%E6%98%93/%E4%BA%8C%E6%89%8B%E4%BA%A4%E6%98%933SSM%20eclipse%E5%92%8Cidea%E9%83%BD%E5%8F%AF%20maven/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85.jpg)
-
 商品详情中，用户可以联系卖家，也可以直接购买商品，还可以评论商品。商品信息有图片展示、名称、价格等信息
 
 ### 4.4 用户功能模块
@@ -72,14 +70,18 @@
 ![管理员-物品类型管理](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220509152026.jpg)
 
 管理员你可以对物品、订单、用户、类型等进行查看、删除等操作
+### 4.6 文档与PPT
+
+位于链接下方
+https://mp.weixin.qq.com/s/wA8wGzFnuN19k2xb74gUCw
 
 ## 5、视频演示
 
-[点击播放视频，视频位于文章最后](https://mp.weixin.qq.com/s/84zqo8kBoI7Qi4q4vtrT-g)
+[点击播放视频，视频位于文章最后](https://mp.weixin.qq.com/s/wA8wGzFnuN19k2xb74gUCw)
 
 ## 6、获取方式
 
-关注公众号： 程序员王不二，回复 “二手3 ” ，即可免费获取完整版的项目代码。此公众号持续分享各种免费java项目源码。
+关注公众号： 程序员王不二，回复 “二手3 ” ，即可获取完整版的项目代码。
 ![img](https://img-blog.csdnimg.cn/7b5e4835dd0248459447658ca28d2ff0.png#pic_center)
 
 ## 7、其它项目
